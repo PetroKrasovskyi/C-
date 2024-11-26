@@ -14,6 +14,7 @@ namespace Fifteen
         private Position _empty;
         private SwapProcessDelegate _numsSwapped;
 
+        // TODO - ISet, SortedSet, HashSet
 
         public BL(int n)
         {
